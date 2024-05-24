@@ -10,7 +10,7 @@
     },
     "manifest_version": 3,
     "mod": {
-        "license": "license.txt",
+        "license": "LICENSE",
         "payload": {
             "background_music": [
                 "music/track_1.mp3",
