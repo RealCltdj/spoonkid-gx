@@ -7,3 +7,4 @@ A Spoonkid themed mod for OperaGX
 - [track_3.mp3](music/track_3.mp3) -> [Mi Limonero](https://youtu.be/4z5P6k_xYHc?si=C4yixxFyq8P4mITC)
 - [track_4.mp3](music/track_4.mp3) -> [All I Want Is a Condo in Lapa](https://youtu.be/3dgs_xmPpoA?si=NYOvt1Wh3G3IuwsJ)
 
+https://store.gx.me/mods/mpvqnk/spoonkid/
