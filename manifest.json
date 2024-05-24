@@ -1,0 +1,75 @@
+{
+    "name": "Spoonkid",
+    "description": "For the Spooners",
+    "version": "0.1",
+    "developer": {
+        "name": "cltdj"
+    },
+    "icons": {
+        "512": "icon_512.png"
+    },
+    "manifest_version": 3,
+    "mod": {
+        "license": "license.txt",
+        "payload": {
+            "background_music": [
+                "music/track_1.mp3",
+                "music/track_2.mp3",
+                "music/track_3.mp3",
+                "music/track_4.mp3"
+            ],
+            "browser_sounds": {
+                "CLICK": [
+                    "sound/rust_sword_hit_box.mp3"
+                ],
+                "FEATURE_SWITCH_OFF": [
+                    "sound/rust_small_box_close.wav"
+                ],
+                "FEATURE_SWITCH_ON": [
+                    "sound/rust_small_box_open.wav"
+                ],
+                "TAB_CLOSE": [
+                    "sound/rust_f1_kill.mp3"
+                ],
+                "TAB_INSERT": [
+                    "sound/whats_up_spooners.mp3"
+                ],
+                "TAB_SLASH": [
+                    "sound/rust_headshot.mp3"
+                ]
+            },
+            "keyboard_sounds":
+            {
+                "TYPING_BACKSPACE":
+                [
+                    "keyboard/rust_mp5_attack.mp3"
+                ],
+                "TYPING_ENTER":
+                [
+                    "keyboard/rust_mp5_attack.mp3"
+                ],
+                "TYPING_LETTER":
+                [
+                    "keyboard/rust_mp5_attack.mp3"
+                ],
+                "TYPING_SPACE":
+                [
+                    "keyboard/rust_mp5_attack.mp3"
+                ]
+            },
+            "wallpaper": {
+                "dark": {
+                    "image": "wallpaper/brinda_beastmode.jpg",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#757575"
+                },
+                "light": {
+                    "image": "wallpaper/brinda_happy.jpg",
+                    "text_color": "#FFFFFF",
+                    "text_shadow": "#0B000E"
+                }
+            }
+        },
+        "schema_version": 1
+    }
+}
