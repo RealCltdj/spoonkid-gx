@@ -1,7 +1,7 @@
 {
     "name": "Spoonkid",
     "description": "For the Spooners",
-    "version": "0.1",
+    "version": "0.2",
     "developer": {
         "name": "cltdj"
     },
@@ -23,10 +23,38 @@
                     "sound/rust_sword_hit_box.mp3"
                 ],
                 "FEATURE_SWITCH_OFF": [
-                    "sound/rust_small_box_close.wav"
+                    "sound/rust_flashlight_off.ogg"
                 ],
                 "FEATURE_SWITCH_ON": [
-                    "sound/rust_small_box_open.wav"
+                    "sound/rust_flashlight_on.ogg"
+                ],
+                "HOVER":
+                [
+                    "sound/rust_piemenu_selectionchange.wav"
+                ],
+                "HOVER_UP":
+                [
+                    "sound/rust_piemenu_selectionchange.wav"
+                ],
+                "IMPORTANT_CLICK":
+                [
+                    "sound/rust_l96_attack.mp3"
+                ],
+                "LEVEL_UPGRADE":
+                [
+                    "sound/rust_construction-upgrade-armored.ogg"
+                ],
+                "LIMITER_OFF":
+                [
+                    "sound/rust_autoturret_off.ogg"
+                ],
+                "LIMITER_ON":
+                [
+                    "sound/rust_autoturret_on.ogg"
+                ],
+                "SWITCH_TOGGLE":
+                [
+                    "sound/rust_flashlight_switch.wav"
                 ],
                 "TAB_CLOSE": [
                     "sound/rust_f1_kill.mp3"
@@ -54,7 +82,7 @@
                 ],
                 "TYPING_SPACE":
                 [
-                    "keyboard/rust_mp5_attack.mp3"
+                    "keyboard/rust_player_jump.wav"
                 ]
             },
             "wallpaper": {
