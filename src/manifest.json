@@ -1,7 +1,7 @@
 {
     "name": "Spoonkid",
     "description": "For the Spooners",
-    "version": "0.2",
+    "version": "0.3",
     "developer": {
         "name": "cltdj"
     },
@@ -88,13 +88,46 @@
             "wallpaper": {
                 "dark": {
                     "image": "wallpaper/brinda_beastmode.jpg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#757575"
+                    "text_color": "#1e2020",
+                    "text_shadow": "#f6eae0"
                 },
                 "light": {
                     "image": "wallpaper/brinda_happy.jpg",
-                    "text_color": "#FFFFFF",
-                    "text_shadow": "#0B000E"
+                    "text_color": "#f6eae0",
+                    "text_shadow": "#1e2020"
+                }
+            },
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 8,
+                        "s": 65,
+                        "l": 48
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 180,
+                        "s": 3,
+                        "l": 12
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 8,
+                        "s": 65,
+                        "l": 48
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 27,
+                        "s": 55,
+                        "l": 92
+                    }
                 }
             }
         },
