@@ -115,6 +115,10 @@
                     "text_shadow": "#1e2020"
                 }
             },
+            "page_styles": [ {
+                "css": [ "webmodding/yt-thumbnails.css" ],
+                "matches": [ "https://*.youtube.com/*" ]
+            } ],
             "theme":
             {
                 "dark":
