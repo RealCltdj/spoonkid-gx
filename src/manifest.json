@@ -1,7 +1,7 @@
 {
     "name": "Spoonkid",
     "description": "For the Spooners",
-    "version": "0.3",
+    "version": "0.5",
     "developer": {
         "name": "cltdj"
     },
@@ -12,12 +12,30 @@
     "mod": {
         "license": "LICENSE",
         "payload": {
-            "background_music": [
-                "music/track_1.mp3",
-                "music/track_2.mp3",
-                "music/track_3.mp3",
-                "music/track_4.mp3"
-            ],
+            "background_music": [{
+                "author": "Vendla",
+                "id": "music_0",
+                "name": "Bossa for Baden",
+                "tracks": [ "music/track_1.mp3" ]
+            },
+            {
+                "author": "Rust",
+                "id": "music_1",
+                "name": "Boat Vendor Music",
+                "tracks": [ "music/track_2.mp3" ]
+            },
+            {
+                "author": "Redeemin'",
+                "id": "music_2",
+                "name": "Mi Limonero",
+                "tracks": [ "music/track_3.mp3" ]
+            },
+            {
+                "author": "Redeemin'",
+                "id": "music_3",
+                "name": "All I Want Is a Condo in Lapa",
+                "tracks": [ "music/track_4.mp3" ]
+            }],
             "browser_sounds": {
                 "CLICK": [
                     "sound/rust_sword_hit_box.mp3"
